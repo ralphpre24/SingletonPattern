@@ -11,3 +11,6 @@ This queuing system ensures a single centralized queue number for all help desk 
 while the reset option offers control and adjustment in exceptional circumstances.
 
 This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.
+
+UML: 
+![image](https://github.com/user-attachments/assets/9438d17c-bb03-46d9-b75b-b7f521e3053f)
